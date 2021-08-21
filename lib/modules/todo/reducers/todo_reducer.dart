@@ -1,4 +1,4 @@
-import 'package:flute/modules/todo/models/todo.dart';
+import 'package:flute/models/todo.dart';
 
 class TodoState {
   List<Todo>? todos;
